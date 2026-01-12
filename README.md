@@ -127,6 +127,13 @@ Open Runway is inspired by the pioneering work and innovation of many projects a
 
 
 
+
+### ✨ Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=ishandutta2007/open-runway&type=date&legend=top-left)](https://www.star-history.com/#ishandutta2007/open-runway&type=date&legend=top-left)
+
+
+
 ## 💖 Support & Sponsorship
 
 If you find this project helpful or if it has saved you time and resources, please consider sponsoring the development. Your support helps maintain the project, develop new features, and keep the initiative open-source.
